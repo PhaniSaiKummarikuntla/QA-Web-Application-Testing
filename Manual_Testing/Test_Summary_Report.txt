@@ -1,0 +1,21 @@
+QA Test Summary Report
+
+Application Tested: SauceDemo Web Application
+
+Testing Type:
+- Manual Testing
+- API Testing
+- Automation Testing
+
+Test Execution Summary:
+Total Test Cases: 10
+Passed: 10
+Failed: 0
+
+Testing Tools Used:
+- Postman for API Testing
+- Selenium WebDriver for Automation Testing
+- Excel for Test Case and Bug Tracking
+
+Conclusion:
+All major functionalities including login, product browsing, cart operations, and checkout were tested successfully.
